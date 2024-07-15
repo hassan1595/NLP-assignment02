@@ -1,0 +1,4 @@
+Number of Samples: 1909115
+Covariance Matrix: (English - Italian)
+[[235.20203366 216.67753154]
+ [216.67753154 223.84359995]]
