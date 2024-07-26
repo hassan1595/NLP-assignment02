@@ -1,0 +1,1985 @@
+
+Translation Samples: 
+
+
+
+
+
+Input: 
+
+
+ believe me, ladies and gentlemen, without a sustainable economy, it will be impossible to balance finances.
+
+
+
+Output: 
+
+
+ a mio parere, onorevoli colleghi, non è un mercato interno, ma non è un'economia sostenibile.
+
+
+
+
+Input: 
+
+
+ as a committed pro-european, i cannot give my approval to the new european commission.
+
+
+
+Output: 
+
+
+ non posso che approvare il progetto di risoluzione, che la commissione non ha più di un'azione più adeguata.
+
+
+
+
+Input: 
+
+
+ we now know that the results of the negotiations were not easily achieved.
+
+
+
+Output: 
+
+
+ oggi sappiamo che i risultati non sono stati raggiunti compromessi.
+
+
+
+
+Input: 
+
+
+ it would be wonderful if more renewable energy sources were found: up to 20% of energy by 2020, as we have been told.
+
+
+
+Output: 
+
+
+ sarebbe meglio meglio dire più facilmente possibile, ma il 20 per cento del pil è un obiettivo energetico europeo, come quello di energia.
+
+
+
+
+Input: 
+
+
+ it is essential that we have that reform, both for the sake of the current union, and certainly to facilitate accessions.
+
+
+
+Output: 
+
+
+ e' fondamentale che l'unione europea, e, a mio avviso, è necessario adottare una riforma radicale e di una maggiore trasparenza.
+
+
+
+
+Input: 
+
+
+ these include the power to regulate how these exchanges are carried out, under what conditions etc.
+
+
+
+Output: 
+
+
+ questi comprendono la possibilità di scegliere di operare in modo diverso, in condizioni di parità.
+
+
+
+
+Input: 
+
+
+ nicaragua is one of the poorest countries and it has the highest per capita debt in the world.
+
+
+
+Output: 
+
+
+ l'unica frontiera di un'europa più è di un'amaro e che si ripercuote sul clima e l'aumento dei costi.
+
+
+
+
+Input: 
+
+
+ i would therefore call on the commission, possibly via the environment commissioner, to lay down additional legislation which we could use.
+
+
+
+Output: 
+
+
+ invito pertanto la commissione a presentare una comunicazione, e la commissione, in quanto tale, sarebbe utile.
+
+
+
+
+Input: 
+
+
+ we have just seen an export to one member state prohibited, whilst the same goods were then allowed to be exported to another.
+
+
+
+Output: 
+
+
+ abbiamo appena assistito a un paese che produce un maggior numero di stati membri, ma è anche un altro paese che appartiene agli stati membri.
+
+
+
+
+Input: 
+
+
+ but these are competitive jobs, for this steelworks is now the number two tool steel manufacturer in the federal republic of germany.
+
+
+
+Output: 
+
+
+ per questo, è possibile che i finanziamenti dell'elettricità, che hanno aderito all'irlanda, hanno un'europa più forte, in particolare per quanto riguarda il settore del carbone e della russia.
+
+
+
+
+Input: 
+
+
+ so, a third of the total population of europe - 120 million people - regard themselves as either 'quite racist' or 'very racist' .
+
+
+
+Output: 
+
+
+ un terzo: cento, in cui il 40 per cento delle persone anziane, intimidazioni o "meglio" , che non è più in grado di distinguere.
+
+
+
+
+Input: 
+
+
+ i now wish to congratulate mrs perry who is sadly leaving us.
+
+
+
+Output: 
+
+
+ desidero congratularmi con l'onorevole savary, che è un'altra.
+
+
+
+
+Input: 
+
+
+ the eu institutions ought to set an example of environmentally friendly policies and reduce consumption of energy resources.
+
+
+
+Output: 
+
+
+ i paesi dell'unione europea devono essere in grado di operare con energia rinnovabile di energia e risorse finanziarie.
+
+
+
+
+Input: 
+
+
+ mr president, in my hurry to join the vote i pressed mrs reding's button instead of my own.
+
+
+
+Output: 
+
+
+ signor presidente, a nome del mio gruppo, vorrei associarmi alle congratulazioni espresse al commissario rehn per il lavoro.
+
+
+
+
+Input: 
+
+
+ does hypocrisy have no limits?
+
+
+
+Output: 
+
+
+ non è forse possibile?
+
+
+
+
+Input: 
+
+
+ eu countries also wage wars, notably in iraq or afghanistan, and supply weapons to friendly countries that are engaged in warfare.
+
+
+
+Output: 
+
+
+ gli stati uniti continuano a essere messi in atto in iraq, in particolare per quanto riguarda la lotta contro la povertà e la tortura, la corruzione e la proliferazione di armi nucleari.
+
+
+
+
+Input: 
+
+
+ the entry into force of the treaty of nice was an important staging post for the application of article 6 and article 7 of the treaty.
+
+
+
+Output: 
+
+
+ l'entrata in vigore del trattato di lisbona è stato un diritto di soggiorno per il trattato di maastricht, che è stato approvato dal consiglio ecofin.
+
+
+
+
+Input: 
+
+
+ the solution to environmental problems will not be provided by the multinationals and monopolies responsible for today's situation, but by the peoples who have to suffer the consequences.
+
+
+
+Output: 
+
+
+ la situazione attuale non è la situazione ideale e le nostre società, le loro sofferenze e le conseguenze che si sono accumulati, ma anche per le loro aspettative.
+
+
+
+
+Input: 
+
+
+ i would therefore like to thank mrs fraisse for her initiative to map out the state of affairs with regard to performing arts in the eu and the candidate countries.
+
+
+
+Output: 
+
+
+ desidero pertanto ringraziare il commissario rehn e l'onorevole kacznk, in particolare per il suo ingresso nell'unione europea e per il mediterraneo, che non è più in grado di agire in modo da poter procedere a una riforma interna.
+
+
+
+
+Input: 
+
+
+ that is a bad omen for things to come.
+
+
+
+Output: 
+
+
+ e' un'aggiunta di un'aggiunta di quelle.
+
+
+
+
+Input: 
+
+
+ madam president, minister michel, ladies and gentlemen, on behalf of the commission and its president, roman prodi, who is currently in brussels attending the european union meeting with russia, i would like to make a statement on the recent extraordinary european council held in brussels and the opportunities arising from the preparatory work of the ghent european council.
+
+
+
+Output: 
+
+
+ signora presidente, signor presidente della commissione, onorevoli colleghi, e in questo parlamento europeo, presidente, consiglio e commissione, in veste di rappresentante del consiglio europeo, hanno partecipato a un vertice straordinario per il vertice di laeken, che è stato pubblicato un vertice mondiale sullo sviluppo europeo del mediterraneo.
+
+
+
+
+Input: 
+
+
+ in answer to the honourable member' s first question, may i say that it is indeed a matter of the utmost urgency that the people of our member states should be made more aware of the enlargement process.
+
+
+
+Output: 
+
+
+ per quanto riguarda la questione, ho ascoltato con piacere che il consiglio abbia detto che, a mio avviso, è che il problema della popolazione sia un'entità di tutti i cittadini dell'unione.
+
+
+
+
+Input: 
+
+
+ the situation of the polish shipyards, if you will allow me to say so, is completely different to that of the banking sector. there are two reasons, which i shall explain to you.
+
+
+
+Output: 
+
+
+ la situazione attuale, che, in quanto, in questo caso, ci sarà un numero di fornitori di servizi, ma anche per i quali gli stati membri hanno fatto riferimento.
+
+
+
+
+Input: 
+
+
+ in particular, we need to develop vocational training, encourage rapid availability for employment, reduce the non-wage cost burden on labour, etc.
+
+
+
+Output: 
+
+
+ occorre soprattutto migliorare la formazione professionale, la formazione professionale, la formazione, la creazione di posti di lavoro, di un'adeguata formazione professionale corretta, che non è più in grado di agire.
+
+
+
+
+Input: 
+
+
+ they want something to eat tomorrow, but we have no answers to their problems.
+
+
+
+Output: 
+
+
+ non ci si possono certo aspettare, per i quali hanno bisogno di ricevere risposte adeguate.
+
+
+
+
+Input: 
+
+
+ meps have today called for a revision of the eu's health response mechanisms.
+
+
+
+Output: 
+
+
+ i deputati hanno chiesto di adottare una serie di misure di sicurezza che l'unione europea deve essere più ambiziosa.
+
+
+
+
+Input: 
+
+
+ for the workers, it was the place that provided them with a source of income and brought them and their colleagues together.
+
+
+
+Output: 
+
+
+ per gli stati membri, è un fatto che i lavoratori distaccati, i lavoratori e i loro insegnanti hanno un ruolo fondamentale.
+
+
+
+
+Input: 
+
+
+ what alternatives are to be analysed?
+
+
+
+Output: 
+
+
+ quali opzioni devono essere?
+
+
+
+
+Input: 
+
+
+ look, if you are not interested in hearing this, don't ask me questions!
+
+
+
+Output: 
+
+
+ se non si sa, signor presidente, non è forse che cosa si intenda?
+
+
+
+
+Input: 
+
+
+ i would be very interested to hear whether the commission is in favour of this amendment.
+
+
+
+Output: 
+
+
+ sarei molto grato se sia favorevole a questa proposta.
+
+
+
+
+Input: 
+
+
+ i happen to know that a working party of regions and cities has been set up in the committee of the regions, whose mission is to identify and tackle these bottlenecks, and which aims to make proposals to this effect.
+
+
+
+Output: 
+
+
+ mi rendo conto che la pesca tra le due parti è stata organizzata e che ha dato origine a un'ampia gamma di soluzioni e di un compromesso che si è sforzato di essere riusciti a raggiungere un compromesso accettabile, che è stato raggiunto.
+
+
+
+
+Input: 
+
+
+ i hope that we can all agree that the money that will be transferred into the rural development policy, specially earmarked for support in those areas where tobacco production is taking place or has taken place, will be very important.
+
+
+
+Output: 
+
+
+ spero che possiamo dire che gli aiuti di sviluppo regionale vadano avanti per i nostri agricoltori, e che non hanno alternative alternative valide per il latte distribuito, che è in grado di fornire aiuti di stato, che è stato possibile.
+
+
+
+
+Input: 
+
+
+ the majority in the committee on budgets believe, however, that that cannot apply to the same degree to 2011, as the reality has changed.
+
+
+
+Output: 
+
+
+ la commissione per i bilanci, nonostante le difficoltà che non sono state prese, ma anche per il parlamento, non si è conclusa.
+
+
+
+
+Input: 
+
+
+ mr president, i should like to ask you whether you will give an interpretation of the rules to say that 'available to the public' means that it should be available in parliament's information offices.
+
+
+
+Output: 
+
+
+ signor presidente, vorrei chiederle se lei intende presentare una proposta di includere le norme di accesso ai farmaci di accesso pubblico ai documenti.
+
+
+
+
+Input: 
+
+
+ for reasons he will appreciate i cannot, as president of the council, go into the honourable member's more specific request that the provisions so dear to him should be included in the new treaty.
+
+
+
+Output: 
+
+
+ per quanto riguarda i miei servizi, non posso che associarmi al presidente, che il consiglio ha respinto la proposta di estendere le sanzioni, che non possono essere adottate in conformità del principio di sussidiarietà.
+
+
+
+
+Input: 
+
+
+ it is utterly impossible for me to contradict anything that has been said on this subject; what we really need to do today is to make a very forceful appeal to the commission and the council, not least in view of this meeting in geneva.
+
+
+
+Output: 
+
+
+ non è facile, a mio avviso, non è sufficiente che la commissione sia riuscita a negoziare e che non sia possibile concordare e che il consiglio sia conclusa, e che si tratta di un'altra occasione per discutere.
+
+
+
+
+Input: 
+
+
+ who can fail to see that if the destructive bombing continues, this will in the long term affect not only the regime but also and primarily the population and their day-to-day living conditions?
+
+
+
+Output: 
+
+
+ chi può dire che se non si vuole distruggere il regime iracheno, che si sta verificando, e non solo per i lavoratori migranti, che hanno fatto riferimento a quanto previsto dal paese, per cui ci aspettiamo che il governo croato?
+
+
+
+
+Input: 
+
+
+ the debate is closed.
+
+
+
+Output: 
+
+
+ la discussione è chiusa.
+
+
+
+
+Input: 
+
+
+ we still wish for strong industry leadership and an appropriate dose of ethics.
+
+
+
+Output: 
+
+
+ noi ci preoccupano di un'industria e di un'istituzione di un'azione decisa.
+
+
+
+
+Input: 
+
+
+ all these concerns are taken into account in the discussion.
+
+
+
+Output: 
+
+
+ tutti questi aspetti sono in discussione.
+
+
+
+
+Input: 
+
+
+ it would ideally refer to line extension rather than abridged application, but the principle allows for the sale of generics in more than one country without repeating application procedures.
+
+
+
+Output: 
+
+
+ si dovrebbe quindi affermare che il divieto di sanzioni penali, sia pure come un'applicazione più rigorosa, che è stata respinta in modo da evitare di dovercizzare il sistema giudiziario.
+
+
+
+
+Input: 
+
+
+ journalists and editors do creative work, which must be the constant concern of all when pondering intellectual and ethical copyright protection, because a journalist's work is used many times over in the news. this fact also underlines the personal responsibility of the journalist for the content and quality of his or her work.
+
+
+
+Output: 
+
+
+ i media e i media e i media e i media sono un medico etico, che ha lavorato in modo responsabile e approfondito, e la sua osservazione è stata giudicata, e ha un piacere di parola, e la sua famiglia ha dovuto subire il proprio lavoro, e il suo lavoro ha svolto un ruolo di primo piano d'azione per la protezione dei dati personali.
+
+
+
+
+Input: 
+
+
+ through new financial mechanisms such as project bonds, as we have often repeated.
+
+
+
+Output: 
+
+
+ in termini di sviluppo, le nuove tecnologie hanno bisogno di una riforma più ampia.
+
+
+
+
+Input: 
+
+
+ there are allegations, presumptions, that sections of the government and sections of the military are directly or indirectly behind these murders. we have no proof, merely anonymous statements.
+
+
+
+Output: 
+
+
+ le autorità francesi, in particolare, sono contrari a una decisione del governo britannico e che non è più possibile, e non si può giustificare la perdita di vite umane.
+
+
+
+
+Input: 
+
+
+ what is needed is for us to debate the issue politically and for us to see what we can do as the european union.
+
+
+
+Output: 
+
+
+ per questo motivo dobbiamo chiederci se sia molto importante e opportuno discutere con noi e con l'unione europea.
+
+
+
+
+Input: 
+
+
+ in the course of 18 months of parliamentary work, we have made significant progress.
+
+
+
+Output: 
+
+
+ nel corso degli ultimi anni abbiamo assistito a un lavoro annuale di bilancio.
+
+
+
+
+Input: 
+
+
+ this should be regarded as being a frivolous attempt to wreck this report and it would serve no purpose to refer it back.
+
+
+
+Output: 
+
+
+ sarebbe ingiusto e che non si debba ritirare la relazione dell'onorevole van den berg e a ritirare il testo.
+
+
+
+
+Input: 
+
+
+ the real issue here is the restoration of choices to all women: the choice to marry or not; the choice to have children or not, to have a career, to have further education or not, to stay at home, to go out into the workplace, to start a business or to have access to property.
+
+
+
+Output: 
+
+
+ il punto principale è la chiave per tutti i pazienti: un'età anziana, che deve essere garantita, deve essere garantita, a condizione che i pazienti non siano accessibili, indipendentemente dalla loro formazione professionale e di formazione, o di un'istruzione, e non può essere in grado di offrire una pensione adeguata.
+
+
+
+
+Input: 
+
+
+ in czech we have a similar saying and i am sure there are similar sayings in other languages.
+
+
+
+Output: 
+
+
+ in altre parole, abbiamo sentito che sono stati esaminati diversi messaggi elettronici.
+
+
+
+
+Input: 
+
+
+ i shall give a short comparison.
+
+
+
+Output: 
+
+
+ preferirei una cosa che ne è.
+
+
+
+
+Input: 
+
+
+ even with my former counterpart, i felt some positive changes in the chinese style, the way they negotiated. since 2005, it has become more and more concrete, more and more to the point and china has made some steps.
+
+
+
+Output: 
+
+
+ anch'io vorrei associarmi alle congratulazioni fatte al fatto che alcuni paesi hanno già compiuto un notevole progresso notevole, che è molto importante per noi, come ha fatto il commissario, signora diamantopoulou, sia stato avviato e di riforme, sia in corso di elaborazione.
+
+
+
+
+Input: 
+
+
+ under the principle of subsidiarity, i welcome giving national parliaments a monitoring role through an early-warning system, the obligation on the commission and the european union to give reasons justifying every proposal and, in general, all measures that favour greater transparency in invoking and applying the principle.
+
+
+
+Output: 
+
+
+ in linea di principio, a mio avviso, il principio di sussidiarietà, il parlamento dovrebbe adottare un approccio più integrato, e la semplificazione delle competenze, la trasparenza e la trasparenza, la possibilità di ricorrere al sistema di rimborso dei fondi, che permetta di avere un accesso ai documenti di accesso al bilancio.
+
+
+
+
+Input: 
+
+
+ one is terrorism, global terrorism, which we are pleased to see is now addressed from this perspective in parliament’s resolution.
+
+
+
+Output: 
+
+
+ la lotta al terrorismo è terrorismo, ma è un fatto che la nostra commissione si è espressa in una posizione comune.
+
+
+
+
+Input: 
+
+
+ if turkey seriously wants to join the union, it goes without saying that it must show itself to be a state truly based on the rule of law.
+
+
+
+Output: 
+
+
+ se la turchia dovesse essere in grado di aderire all'unione europea, ma non deve essere un pretesto per rispettare il principio di sussidiarietà.
+
+
+
+
+Input: 
+
+
+ the european court of auditors partly agrees.
+
+
+
+Output: 
+
+
+ la corte dei conti europea, che ha dato origine alla sostanza.
+
+
+
+
+Input: 
+
+
+ we are part of the imf. furthermore, we have more votes there than the us.
+
+
+
+Output: 
+
+
+ siamo tutti d' accordo, ma siamo riusciti a raggiungere un accordo.
+
+
+
+
+Input: 
+
+
+ the commissioner knows, of course, that i myself am a particularly strong champion of european agreements on employment and also a very keen advocate of prevention.
+
+
+
+Output: 
+
+
+ il commissario barnier, signor commissario, è un bene, che per gli stati membri dell'unione europea, è un elemento positivo per la lotta contro il traffico di stupefacenti.
+
+
+
+
+Input: 
+
+
+ in the 30 seconds i have left i want to address, in particular, the trade aspect of all of this: paragraphs 83 and 89 are particularly interesting.
+
+
+
+Output: 
+
+
+ in merito al mio, mi congratulo con il mio collega, l'onorevole deputato, che mi ha dato ragione a favore di un paragrafo 8, paragrafo 2, del paragrafo 2, paragrafo 8, che è un'altra.
+
+
+
+
+Input: 
+
+
+ the second positive answer is that the priorities of the member states have changed to a noticeable degree.
+
+
+
+Output: 
+
+
+ la seconda preoccupazione è che la commissione è di un forte calo dei prezzi dei generi alimentari.
+
+
+
+
+Input: 
+
+
+ however, i do not believe that it is for brussels to prescribe social tariffs.
+
+
+
+Output: 
+
+
+ non credo tuttavia che la svezia non sia stata attribuita al pari di quelli di paesi terzi.
+
+
+
+
+Input: 
+
+
+ i am also concerned to tell you that i left london at one o'clock this afternoon and i arrived here at nine o'clock this evening.
+
+
+
+Output: 
+
+
+ inoltre, mi preoccupate di vedere come è accaduto per quanto riguarda il sis ii e che il commissario è un fatto che il parlamento europeo ha potuto essere molto diverso.
+
+
+
+
+Input: 
+
+
+ in writing. - i welcome this report by mr méndez de vigo and mr corbett, which both emphasises the fact that the reform treaty is not the constitution, while also enabling europe to pursue the new global role it will have to play in the coming decades.
+
+
+
+Output: 
+
+
+ per iscritto. - (en) accolgo con favore la presente relazione, che il gruppo liberale e del parlamento europeo e del consiglio che si svolgerà domani, a nome del mio gruppo, che la loro aspira per la promozione di un'europa che si traduca in una situazione di svantaggio, che non è più possibile.
+
+
+
+
+Input: 
+
+
+ . (el) neither the letter, i.e. the legal basis, nor, more importantly, the spirit of the way in which the burgeoning e-commerce industry is developing and the speed with which it is spreading augur well for the protection of citizens' personal data and privacy; on the contrary, they give cause for serious, widespread concern as regards both the decimation and restructuring of commerce and the market itself and the intensification of efforts to abolish civil rights, make citizens slaves to technology and the savage laws of the capitalist market and turn their personal lives and their very existence into cheap, malleable raw materials to generate profits.
+
+
+
+Output: 
+
+
+ signor presidente, la direttiva non è solo un'armonizzazione, e per questo motivo, è importante che i consumatori europei e dei consumatori, siano consapevoli dei rischi di un sistema di etichettatura che, a mio avviso, è caratterizzata da un'eccessiva regolamentazione e di un sistema di controllo e di prezzi, e che i consumatori non comprendono i diritti umani, e in particolare per i diritti dei lavoratori, i quali i diritti umani sono spesso più gravi e i problemi sociali e i diritti dei lavoratori, che hanno beneficiato a un'astallo e di un'amianto, che hanno un effetto diretto e di un'adeguata formazione di persone, di cui i cittadini hanno più di un sistema di controllo più efficace e più trasparente.
+
+
+
+
+Input: 
+
+
+ that way the new member states are supporting and strengthening the health services of their richer neighbours.
+
+
+
+Output: 
+
+
+ questo nuovo settore, che i nuovi stati membri devono essere incoraggiati e le loro famiglie e le loro famiglie.
+
+
+
+
+Input: 
+
+
+ if a few major players do that you have it brought in by a different door even if the ec doesn't want to play ball.'
+
+
+
+Output: 
+
+
+ se un modo in cui i paesi in cui si trovano in un paese, in cui si possono suggerire il “no” di “conivo viaggerà”.
+
+
+
+
+Input: 
+
+
+ ‘there can be no freedom without solidarity’ also means that freedom is not an end in itself.
+
+
+
+Output: 
+
+
+ non posso credere che i valori universali non possono essere un elemento di stabilità che non è un’organizzazione più attraente.
+
+
+
+
+Input: 
+
+
+ we social democrats are working on a broad scale to get hazardous substances in food, the environment, manufacturing and so on phased out.
+
+
+
+Output: 
+
+
+ noi liberali abbiamo cercato di limitare la produzione di biocarburanti, che è un'ottima di qualità di prodotti chimici, e in particolare per quanto riguarda la produzione di biocarburanti.
+
+
+
+
+Input: 
+
+
+ i also thank lord inglewood, who, in one sentence, conceded that we are right. he said that he respects the decisions of other member states and i thank him for that.
+
+
+
+Output: 
+
+
+ vi ringrazio, onorevole bowe, che, a nome del mio gruppo, che sono d'accordo con lei, sono stati compiuti passi avanti.
+
+
+
+
+Input: 
+
+
+ in 2006 he criticised scientists involved in embryonic stem cell research.
+
+
+
+Output: 
+
+
+ nel 2006, in particolare, si sono impegnati a investire in un'impresa di ricerca e di private.
+
+
+
+
+Input: 
+
+
+ if dealing with these things is not a permanent feature of daily life, finding the correct form is not always easy, and people ask themselves such questions as: ‘have i supplied a full description of the facts of the case?’
+
+
+
+Output: 
+
+
+ se non si tratti di un'altra cosa: le persone non possono essere affrontate in modo diverso, o di un'invenzione di famiglia: "non gente che esprimono le nostre posizioni: le persone, non hanno mai bisogno.
+
+
+
+
+Input: 
+
+
+ amendments to the common position threaten the future of some of these stations and the jobs of the miners who supply the coal.
+
+
+
+Output: 
+
+
+ gli emendamenti della direttiva sono essenziali per i quali gli stati membri hanno cercato di costruire e di un'industria automobilistica.
+
+
+
+
+Input: 
+
+
+ all prisoners not accused of criminal acts should of course be released.
+
+
+
+Output: 
+
+
+ tutti i prigionieri politici, non devono essere puniti.
+
+
+
+
+Input: 
+
+
+ if we are in favour of it - and i think that the majority of the parliament is in favour of deciding by majority, even on security policy - then it cannot be the case that the european parliament is sidelined when it comes to democratic control.
+
+
+
+Output: 
+
+
+ se siamo d'accordo, e credo che sia un segnale di fiducia e di potere, ma è un’opinione pubblica e che la commissione dovrebbe adottare per il parlamento europeo.
+
+
+
+
+Input: 
+
+
+ why are we only going to take account of the risk facing a minority of these drivers?
+
+
+
+Output: 
+
+
+ perché se si vuole tenere conto delle conseguenze di un incidente di vita?
+
+
+
+
+Input: 
+
+
+ on the european day against the death penalty, how do we explain why we have not said a word about the situation in europe today?
+
+
+
+Output: 
+
+
+ in quest'aula, la votazione si svolgerà oggi, signor presidente, che non ci si è mai verificato per la clonazione umana?
+
+
+
+
+Input: 
+
+
+ mr president, for us the approval of the euro-maghreb agreement under discussion today has the greatest importance.
+
+
+
+Output: 
+
+
+ signor presidente, l'approvazione del parlamento europeo si è conclusa, che è stata discussa in modo approfondito sulla base di un accordo di riferimento.
+
+
+
+
+Input: 
+
+
+ as long as that is not done, there will still be gaps in our arrangements.
+
+
+
+Output: 
+
+
+ finché non sarà possibile, tuttavia, non è ancora possibile, per quanto riguarda i nostri obiettivi.
+
+
+
+
+Input: 
+
+
+ (parliament gave its assent)
+
+
+
+Output: 
+
+
+ (il parlamento approva la sua approvazione)
+
+
+
+
+Input: 
+
+
+ other parts of the world are engaged in protecting their manufacturing by means of industrial property rights, and the european union - while declaring its desire to protect consumers and to combat counterfeiting - is making the wrong choice.
+
+
+
+Output: 
+
+
+ altri settori del mondo, i quali i consumatori, i produttori di tabacco, i cittadini, la loro tutela e la tutela dei diritti umani, e non solo per i consumatori, è un'assoluta necessità di un'economia di mercato e di qualsiasi considerazione.
+
+
+
+
+Input: 
+
+
+ the second area is education.
+
+
+
+Output: 
+
+
+ la seconda è la società.
+
+
+
+
+Input: 
+
+
+ this is the conclusion that can be drawn from the rejection of the proposed amendments tabled by our parliamentary group which reiterated that outer space must be used for exclusively peaceful purposes and that outer space must be used for exclusively non-military purposes, thereby rejecting any direct or indirect military use.
+
+
+
+Output: 
+
+
+ questo è il punto che è stato approvato dal consiglio europeo di emendamenti che, per quanto riguarda la formulazione della relazione, il che significa che i finanziamenti non possono essere ridotti a scopi di assistenza e di aiuti umanitari, e a sostegno dei loro interventi, né di aiuti umanitari, e a sostegno di aiuti umanitari.
+
+
+
+
+Input: 
+
+
+ it will pay dividends for european integration!
+
+
+
+Output: 
+
+
+ e' un'europa che si sta perdendo di più.
+
+
+
+
+Input: 
+
+
+ on the demand side, there is, at this moment, no demand for additional licit opium for medical purposes according to the international narcotics control board.
+
+
+
+Output: 
+
+
+ attualmente, per quanto riguarda il rimpatrio, non è sufficiente, né per gli stati membri di utilizzare il denaro per i medicinali in possesso di armi nucleari.
+
+
+
+
+Input: 
+
+
+ (de) mr president, first of all, let me say that i think it is very good that we can now sit together down here.
+
+
+
+Output: 
+
+
+ (de) signor presidente, credo che sia molto positivo che sia molto più opportuno che il primo aspetto è stato molto più facile.
+
+
+
+
+Input: 
+
+
+ europe's success will be to show other peoples and nations in the world how to create a situation of freedom and dignity for the citizen.
+
+
+
+Output: 
+
+
+ l'europa e il nostro impegno sarà in grado di offrire una risposta alle esigenze dei paesi emergenti e di un'europa che si traduca in una democrazia e la libertà.
+
+
+
+
+Input: 
+
+
+ this un backing is of crucial importance for the european union’s external actions in all areas, whether in terms of enhancing our cooperation with the international labour organisation and other international organisations, or in terms of bilateral cooperation with other regions and countries.
+
+
+
+Output: 
+
+
+ tale partecipazione dell'unione europea è fondamentale per i nostri partenariati, che sono in grado di fornire assistenza tecnica, sia per quanto riguarda i rapporti con i paesi terzi, e per la cooperazione allo sviluppo, nonché di rafforzare la cooperazione tra unione europea e paesi terzi.
+
+
+
+
+Input: 
+
+
+ we can hinder that process by failing to put our own house in order over the common agricultural policy and over budget reform.
+
+
+
+Output: 
+
+
+ possiamo infatti sperare che il bilancio agricolo europeo per il mediterraneo e il suo bilancio agricolo deve essere riformato.
+
+
+
+
+Input: 
+
+
+ no public meeting related to an eu information campaign should take place in a state without inviting elected representatives of all political leanings to participate in it.
+
+
+
+Output: 
+
+
+ non si parla di un'istituzione di un organismo nazionale di informazione ufficiale di cui godono i cittadini europei a partecipare a questo risultato elettorale.
+
+
+
+
+Input: 
+
+
+ a tax on energy must be implemented throughout europe, otherwise it will lead once more to market disruption.
+
+
+
+Output: 
+
+
+ un'imposta energetica deve essere un investimento più efficace per garantire che i paesi in via di sviluppo non siano più efficienti.
+
+
+
+
+Input: 
+
+
+ of course, our strategy in relation to the imf needs to be considered at a later stage.
+
+
+
+Output: 
+
+
+ naturalmente, la nostra priorità è quella di agire in maniera più approfondita.
+
+
+
+
+Input: 
+
+
+ this report does not dictate what should be done in individual member states, but calls upon the governments to look at their own situation and take action to improve the balance of women and men, using legislative means, if necessary, as some have already done.
+
+
+
+Output: 
+
+
+ la relazione non può essere incluso, ma anche se non si verifichi la situazione, e in particolare i diritti dei singoli stati membri, e che devono essere presi in considerazione le decisioni adottate a livello di stati membri, e che non possono essere attuate in modo corretto e che la loro aspira ad essere in grado di agire.
+
+
+
+
+Input: 
+
+
+ in our society there is no such thing as zero-risk, but we must at least ensure the greatest possible levels of safety.
+
+
+
+Output: 
+
+
+ il nostro gruppo non può essere più sicuro di poter disporre di più, ma anche per i livelli di sicurezza.
+
+
+
+
+Input: 
+
+
+ i am pleased to say that the transit issues that the european parliament dealt with in considerable detail have now been resolved.
+
+
+
+Output: 
+
+
+ sono lieta di constatare che la questione della comitatologia in discussione è stata sollevata da molti anni, che è molto importante.
+
+
+
+
+Input: 
+
+
+ i believe this report represents a step forward, but we in the eu still have our work to do.
+
+
+
+Output: 
+
+
+ ritengo che la relazione, che sia un passo avanti verso un'integrazione europea, ma anche per i nostri concittadini.
+
+
+
+
+Input: 
+
+
+ in writing. - (pl) i voted in favour of the report by mr florenz entitled: 'towards a europe free from tobacco smoke'.
+
+
+
+Output: 
+
+
+ per iscritto. - (pl) ho votato a favore della relazione dell'onorevole katiforis, a nome della commissione per l'agricoltura, che "l'europa...
+
+
+
+
+Input: 
+
+
+ in 2008, the commission adopted 42 programmes on the internal market and on third countries, representing a budget of eur 128 million over three years.
+
+
+
+Output: 
+
+
+ nel 2007, la commissione ha presentato un'iniziativa di quattro anni, e la terza parte dell'unione europea ha contribuito a ridurre gli squilibri e le emissioni di co2.
+
+
+
+
+Input: 
+
+
+ for instance, it may have been somewhat difficult for the king of morocco to go to spain because of the differences they still have.
+
+
+
+Output: 
+
+
+ ad esempio, è stato già detto che la grecia è un paese che non è più vicino, e non solo per il kosovo.
+
+
+
+
+Input: 
+
+
+ i would also argue that the eu must be especially sensitive to the problem in sub-saharan africa, which, with 22.4 million people living with hiv/aids, remains the most heavily affected region.
+
+
+
+Output: 
+
+
+ vorrei inoltre sottolineare che l'unione europea ha un notevole notevole aumento per il fatto che la corea del nord, in particolare, in quanto si è manifestata in un'altra forma di energia nucleare, che ha causato un aumento della povertà.
+
+
+
+
+Input: 
+
+
+ alternative dispute resolution is going to be our key mover in this regard.
+
+
+
+Output: 
+
+
+ la presente risoluzione si basa su due concetti: il nostro obiettivo è quello di evitare il ripetersi.
+
+
+
+
+Input: 
+
+
+ poverty means much more than simply being out of work, and those who experience extreme poverty on a daily basis are not just looking for a job; they want proper access to existing rights.
+
+
+
+Output: 
+
+
+ la povertà è un fenomeno diffuso e che è un fenomeno di lavoratori e di non essere più discriminati e che devono essere costretti a rispettare i loro diritti e le loro famiglie.
+
+
+
+
+Input: 
+
+
+ the groups most at risk are children, including unborn children, and people in direct contact with mercury.
+
+
+
+Output: 
+
+
+ i gruppi più vulnerabili, i pazienti, i giovani, i giovani, i giovani, i pensionati, i bambini.
+
+
+
+
+Input: 
+
+
+ another issue concerns how the organisation is to be supervised in the future, and in this respect the different member states have different experiences.
+
+
+
+Output: 
+
+
+ un altro aspetto che preoccupa la questione della tutela dei dati e delle misure che si sono impegnati a prendere in considerazione gli interessi dei singoli stati membri.
+
+
+
+
+Input: 
+
+
+ to summarise, the commission can accept all the proposed amendments.
+
+
+
+Output: 
+
+
+ per quanto riguarda gli emendamenti, la commissione non può accogliere gli emendamenti.
+
+
+
+
+Input: 
+
+
+ mr president, today we are talking about child abuse against the background of a particularly tragic and odious event so horrible that it is beyond the power of words to condemn.
+
+
+
+Output: 
+
+
+ signor presidente, oggi parliamo di xenofobia, in cui parliamo di violenza e contro il razzismo e la xenofobia, non è più che mai stato, in cui si richiama il rischio di un attacco.
+
+
+
+
+Input: 
+
+
+ trade, as parliament will know, is the most complex area and the area in which it is more difficult to reach agreement.
+
+
+
+Output: 
+
+
+ la russia, il consiglio e la commissione, in quanto si è già un paese, un maggior numero di paesi e il margine di manovra.
+
+
+
+
+Input: 
+
+
+ turkey is a candidate country and should show more willing, through turkish cypriots, as regards the commitments which it entered into in helsinki.
+
+
+
+Output: 
+
+
+ la turchia è un paese candidato e deve essere più chiara e più chiara, in quanto la turchia è un paese candidato e che non è più in grado di agire.
+
+
+
+
+Input: 
+
+
+ i support the eu directive's reference to voluntary and altruistic donations.
+
+
+
+Output: 
+
+
+ sostengo la proposta di un'imposta basata sulla conoscenza e la traduzione dei deputati.
+
+
+
+
+Input: 
+
+
+ indeed, to involve the union in fulfilling such fundamental requirements as freedom, security and justice is, firstly, to recognise the close linkage between these three requirements, none of which can be fulfilled without the other two - after all, freedom is only meaningful in a secure environment, based on a reliable legal system - and, secondly, to regard the union as the appropriate framework for the protection and furtherance of such values, irrespective of individual legal traditions or practices.
+
+
+
+Output: 
+
+
+ in secondo luogo, se la comunità internazionale si occupi di standard internazionali vincolanti, ma anche per quanto riguarda la questione di un accordo internazionale, che non è un diritto umano e, in particolare, per la tutela dei diritti umani, e la sua tutela dei consumatori, che è un'organizzazione concorrenziale, che ha prodotto condizioni di parità, condizioni di sicurezza e di difesa, e non solo per i diritti umani, la sicurezza alimentare, e la sua applicazione, la situazione è in realtà.
+
+
+
+
+Input: 
+
+
+ i think that our contribution will play a major role here.
+
+
+
+Output: 
+
+
+ penso che il nostro ruolo determinante sia un ruolo fondamentale.
+
+
+
+
+Input: 
+
+
+ furthermore, if contractual freedom between private businesses is respected, a substantial safeguard is introduced by prohibiting excessive payment deadlines towards creditors, who are often smes.
+
+
+
+Output: 
+
+
+ inoltre, se le imprese di assicurazione, in particolare, la creazione di un'automobile, la libera circolazione dei lavoratori, è un'assurdità di un'adeguata adesione, che non è in grado di fornire prestiti compensazioni.
+
+
+
+
+Input: 
+
+
+ documents received: see minutes
+
+
+
+Output: 
+
+
+ presentazione di documenti: vedasi processo verbale
+
+
+
+
+Input: 
+
+
+ i am leaving early and you are also leaving early because you are going to campaign.
+
+
+
+Output: 
+
+
+ sono pronto a farlo e a questo proposito, mi spiace interrompere il tempo di parola.
+
+
+
+
+Input: 
+
+
+ and i still see no reason why sweden should not make its findings and arguments available to the other member states.
+
+
+
+Output: 
+
+
+ non vedo dunque perché non si sia verificato alcun motivo per cui i paesi membri hanno il compito di agire in modo da informare i cittadini.
+
+
+
+
+Input: 
+
+
+ i am quite sure this will provide a very good basis for further discussions.
+
+
+
+Output: 
+
+
+ sono certo che si possa trovare un modo per procedere a una discussione congiunta.
+
+
+
+
+Input: 
+
+
+ it is precisely because i believe in europe so strongly that i am very critical of it and also of the budget of our own institution, the european parliament.
+
+
+
+Output: 
+
+
+ e' per questo motivo per cui credo che sia molto importante per noi, per quanto riguarda la sua proposta di bilancio, e per il resto del parlamento europeo.
+
+
+
+
+Input: 
+
+
+ if the full impact of the sudanese decision is still being assessed, it is clear that the lives of hundreds of thousands of people might be at risk in darfur.
+
+
+
+Output: 
+
+
+ se la decisione di malta si è data la possibilità di ricevere cure mediche, che sono state adottate le misure necessarie per evitare il ripetersi di scontri in cui si trovano in carcere.
+
+
+
+
+Input: 
+
+
+ but what we want is actually a breakthrough to sustainability in production, and that is why five years would be better in our view.
+
+
+
+Output: 
+
+
+ ma dobbiamo guardare a un'altra cosa che vogliamo, e dobbiamo constatare che la crescita è stata molto più ambiziosa e quella di cui si è giunti a un periodo di tre anni.
+
+
+
+
+Input: 
+
+
+ the compromise voted on today does not avoid all the negative consequences of this trading scheme, but it does minimise a number of them, by postponing the date of entry into force with regard to parliament's original proposal and by reducing the scope of auctioning and the pressure on weaker companies.
+
+
+
+Output: 
+
+
+ il voto odierno non è stato approvato a maggioranza qualificata, ma non è solo un elenco di emendamenti volti a ridurre la direttiva sulla protezione dei dati, che non sono state rispettate e che non possono essere fatte in termini di discrezione e la soppressione delle sostanze pericolose, che sono state adottate e che hanno aderito all'unione europea.
+
+
+
+
+Input: 
+
+
+ with regard to the problem of abandoned children and adoptions, i believe the commissioner’s response has been clear: the well-being of children must govern this process.
+
+
+
+Output: 
+
+
+ per quanto riguarda la questione della tossicodipendenza e della tossicodipendenza, la mia collega, onorevole farage, e dobbiamo ringraziare tutti coloro che hanno votato a favore della relazione.
+
+
+
+
+Input: 
+
+
+ the european union can play an important role in this sector on the global market.
+
+
+
+Output: 
+
+
+ l'unione europea può svolgere un ruolo importante nel settore della produzione di energia.
+
+
+
+
+Input: 
+
+
+ we have had a successful bonn conference and a tokyo donors conference.
+
+
+
+Output: 
+
+
+ abbiamo concluso un accordo con il quartetto e con la conferenza di bonn.
+
+
+
+
+Input: 
+
+
+ we see it in the osce. we see it in the council of europe here in strasbourg, and we see it also in relations between russia and the eu.
+
+
+
+Output: 
+
+
+ noi abbiamo un'altra riunione, che la russia è molto importante e dobbiamo anche discutere con la russia e la russia, e la russia, la russia.
+
+
+
+
+Input: 
+
+
+ mr president, naturally i support the criticism of china with regard to tibet, of russia with regard to chechnya, and i endorse the criticism voiced in relation to the human rights violations in the conflict between israel and the palestinians, also when it comes to the repugnant public lynchings that are carried out.
+
+
+
+Output: 
+
+
+ signor presidente, condivido l'opinione della russia, che condivido pienamente le preoccupazioni espresse in merito alla situazione e alla lotta contro il terrorismo, e in particolare per quanto riguarda la lotta contro il terrorismo, che non è più possibile, né di israele, che ha dato origine alla popolazione di un iraq, che ha il diritto di manifestare la propria opinione.
+
+
+
+
+Input: 
+
+
+ the delegation is in strasbourg for a number of meetings with our delegation to the parliamentary cooperation committee.
+
+
+
+Output: 
+
+
+ il parlamento è stato invitato a partecipare alla sessione di strasburgo con un forum di cooperazione con la commissione parlamentare per i gruppi di quest'assemblea.
+
+
+
+
+Input: 
+
+
+ the report we will be voting on tomorrow has been constantly updated.
+
+
+
+Output: 
+
+
+ la relazione della votazione si svolgerà domani, alle 9.00.
+
+
+
+
+Input: 
+
+
+ and i am very pleased to see that there are nevertheless a large number of us here to vote on this report, which is indeed very important.
+
+
+
+Output: 
+
+
+ sono molto lieta di constatare che, in questo caso, abbiamo una relazione molto approfondita, che è stata presentata una relazione.
+
+
+
+
+Input: 
+
+
+ innovation in the construction of specialist ships will prove decisive here and this could give our shipbuilding industry a shot in the arm.
+
+
+
+Output: 
+
+
+ in un settore turistico, la ricerca e l'industria cantieristica e la sua industria a questo fine settimana, ha già lasciato di arrivare a un'unica quota di carbone.
+
+
+
+
+Input: 
+
+
+ it correctly pointed out that only the first two activities, that is donor suitability and screening of donations, were addressed.
+
+
+
+Output: 
+
+
+ e' stato citato, il fatto che il treno, in tre casi, è stato applicato a tutti gli interessati, e le sue risorse finanziarie.
+
+
+
+
+Input: 
+
+
+ we have also formulated certain additional goals, which are very important for mutual relations between the european union and africa.
+
+
+
+Output: 
+
+
+ abbiamo inoltre concordato un testo di riferimento, che è molto importante per noi, come la cooperazione tra le parti sociali e la lotta contro il cambiamento climatico.
+
+
+
+
+Input: 
+
+
+ i am personally thinking, particularly at a time when so many businesses are undergoing restructuring, of the directives such as that on the information and consultation of workers, that on the european works councils, or even of the framework directive on services of general interest, and am looking forward to the possible - and, in my view, desirable - reform of the treaties in this crucial area.
+
+
+
+Output: 
+
+
+ in primo luogo, per quanto riguarda il settore privato, in particolare quando si tratta di un settore specifico, e in particolare per quanto riguarda i nuovi servizi, in cui si chiede che il regolamento sia approvato da esperti di regolamento, che è stata recepita, e in particolare la commissione per i diritti dei lavoratori, la semplificazione e la prestazione dei servizi.
+
+
+
+
+BLEU: 
+
+
+0.05668638431658063
+
+
+
+
+Perplexity: 
+
+
+38.00972
+
+
+
+\BLEU - Length Covariance: 
+
+
+-0.4158962139980594
+
+
+
+
+Perplexity - Length Covariance: 
+
+
+184.92445695491958
+

@@ -1,4 +1,8 @@
+de_bpe_tokenizer-merges.txt
+de_bpe_tokenizer-vocab.json
 en_bpe_tokenizer-merges.txt
 en_bpe_tokenizer-vocab.json
+en_character_tokenizer
 it_bpe_tokenizer-merges.txt
 it_bpe_tokenizer-vocab.json
+it_character_tokenizer
